@@ -8,7 +8,7 @@ const Movie = ({ id, year, title, summary, poster, genres }) => {
       <img src={poster} alt={title}/>
       <div className="movie__data">
         <h3 className="movie__title">{title}</h3>
-        <ul className="genres">{genres.map((genre, idx) => <li key={idx} className="genre">{genre}</li>)}</ul>
+        <ul className="movie__genres">{genres.map((genre, idx) => <li key={idx} className="genre">{genre}</li>)}</ul>
         <h5 className="movie__year">{year}</h5>
         <p className="movie__summary">{summary}</p>
       </div>
