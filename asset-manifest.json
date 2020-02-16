@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-move-app/static/css/main.18b28e54.chunk.css",
+    "main.js": "/react-move-app/static/js/main.5e08474d.chunk.js",
+    "main.js.map": "/react-move-app/static/js/main.5e08474d.chunk.js.map",
+    "runtime-main.js": "/react-move-app/static/js/runtime-main.3913ac85.js",
+    "runtime-main.js.map": "/react-move-app/static/js/runtime-main.3913ac85.js.map",
+    "static/js/2.08ccf181.chunk.js": "/react-move-app/static/js/2.08ccf181.chunk.js",
+    "static/js/2.08ccf181.chunk.js.map": "/react-move-app/static/js/2.08ccf181.chunk.js.map",
+    "index.html": "/react-move-app/index.html",
+    "precache-manifest.fa5b1ef87c148f55eec789be7a84bcbe.js": "/react-move-app/precache-manifest.fa5b1ef87c148f55eec789be7a84bcbe.js",
+    "service-worker.js": "/react-move-app/service-worker.js",
+    "static/css/main.18b28e54.chunk.css.map": "/react-move-app/static/css/main.18b28e54.chunk.css.map",
+    "static/js/2.08ccf181.chunk.js.LICENSE": "/react-move-app/static/js/2.08ccf181.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3913ac85.js",
+    "static/js/2.08ccf181.chunk.js",
+    "static/css/main.18b28e54.chunk.css",
+    "static/js/main.5e08474d.chunk.js"
+  ]
+}
